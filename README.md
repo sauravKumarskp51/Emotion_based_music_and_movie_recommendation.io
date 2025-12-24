@@ -5,13 +5,14 @@
     This paper presents a project on developing a smart autonomous robot with obstacle avoidance and object detection capabilities. The primary objective is to design and implement a self-navigating robotic system capable of efficiently detecting and avoiding obstacles in real time while also identifying objects in its surroundings. The robot incorporates an ESP32 microcontroller, an ultrasonic sensor, and an L298N motor driver for efficient motor control. Additionally, the ESP32-CAM module provides live video streaming, remote monitoring, and object detection, enhancing the system's adaptability and functionality. The embedded system processes sensor data and executes obstacle avoidance and object detection algorithms to determine the optimal navigation path. Experimental results demonstrate the system's effectiveness in detecting obstacles, recognizing objects, and navigating complex environments. This project highlights the integration of robotics, computer vision, and embedded systems, showcasing the potential for smart autonomous applications in areas such as surveillance, logistics, and disaster response.
 
 </p>
-----
+---
+
 <h3 align="center">Login Page</h3>
 
 <p align="center">
 <img width="1919" height="984" alt="login" src="https://github.com/user-attachments/assets/54b746af-17a6-45fd-a680-54cc7a4b8bfd" />
 </p>
-
+---
 
 <h3 align="center">Signup Page</h3>
 <img width="1916" height="988" alt="Signup" src="https://github.com/user-attachments/assets/1500df75-10dd-40e3-96fd-bebe11234a1a" />
