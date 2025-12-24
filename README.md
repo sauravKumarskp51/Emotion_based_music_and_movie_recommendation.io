@@ -2,9 +2,14 @@
 
 <h3>Abstract:</h3>
 <p align="justify">
-    This paper presents a project on developing a smart autonomous robot with obstacle avoidance and object detection capabilities. The primary objective is to design and implement a self-navigating robotic system capable of efficiently detecting and avoiding obstacles in real time while also identifying objects in its surroundings. The robot incorporates an ESP32 microcontroller, an ultrasonic sensor, and an L298N motor driver for efficient motor control. Additionally, the ESP32-CAM module provides live video streaming, remote monitoring, and object detection, enhancing the system's adaptability and functionality. The embedded system processes sensor data and executes obstacle avoidance and object detection algorithms to determine the optimal navigation path. Experimental results demonstrate the system's effectiveness in detecting obstacles, recognizing objects, and navigating complex environments. This project highlights the integration of robotics, computer vision, and embedded systems, showcasing the potential for smart autonomous applications in areas such as surveillance, logistics, and disaster response.
+    This project presents an Emotion-Based Music and Movie Recommendation System that delivers personalized entertainment content by analyzing a user’s real-time emotional state. The system leverages real-time emotion detection to understand user emotions and recommends suitable songs and movies accordingly, creating an intelligent and interactive user experience.
 
-</p>
+A web-based interface is developed using the Flask framework, where users can choose between music or movie recommendations after their emotion is detected. Once an emotion is identified, the system dynamically displays emotion-specific recommendations. When a user selects a song, they are redirected to Spotify for seamless music playback, while selecting a movie redirects them to IMDb for detailed movie information and reviews.
+
+To enhance usability and accessibility, a voice assistant feature is integrated, allowing users to open songs or movies using voice commands without manual interaction. This enables hands-free navigation and improves the overall user experience.
+
+The system follows a structured flow: real-time emotion detection → content selection (music or movies) → emotion-based recommendations → external platform redirection.
+    </p>
 
 ---
 
